@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[6]:
-
-
 #CODE: TO PRINT FIBONACCI SERIES.
 n=int(input("Enter the total number of terms you want in series:"));
 if n<0:
